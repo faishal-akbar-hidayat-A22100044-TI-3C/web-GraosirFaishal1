@@ -1,0 +1,16 @@
+{
+    "name": "Grosir Sembako PWA",
+    "short_name": "SembakoPWA",
+    "description": "Aplikasi PWA untuk Grosir Sembako",
+    "start_url": "./index.html",
+    "display": "standalone",
+    "background_color": "#ffffff",
+    "theme_color": "#e44d26",
+    "icons": [
+        {
+            "src": "/icon.png",
+            "sizes": "192x192",
+            "type": "image/png"
+        }
+    ]
+}
